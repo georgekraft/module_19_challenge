@@ -6,7 +6,7 @@ Please review 'fintech_finder.py' file and screenshots with validated transactio
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/85372363/138615998-79124751-ff3d-4300-86b9-5f8a76a6f06a.png)
 
-**Customer's (my) address balance and history with validated transaction on Etherscan**
+**Sender's (my) address balance and history with validated transaction on Etherscan**
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/85372363/138616081-c9a2170f-9a87-43f6-b188-196bc71783b0.png)
 
